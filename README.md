@@ -36,9 +36,6 @@ Based on 2024-2025 research:
 - **Chapter 3:** Secure Vibe Coding Workflow
 - **Chapter 4:** Tools and Technology Stack
 - **Chapter 5:** Scenario-based Security Practices
-- **Chapter 6:** Risk Assessment and Metrics
-- **Chapter 7:** Organizational Implementation Guide
-- **Chapter 8:** Case Studies and Real-world Examples
 
 ## 📖 How to Use This Whitepaper
 
