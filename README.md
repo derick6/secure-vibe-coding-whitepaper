@@ -5,7 +5,7 @@ A comprehensive whitepaper on security best practices for AI-assisted developmen
 ## 📚 Contents
 
 ### Chapter 1: Security Risk Analysis
-- [Read Chapter 1](chapter1_security_risks_english.md)
+- [Read Chapter 1](chapter1_security_risks.md)
 
 ## 🎯 Purpose
 
